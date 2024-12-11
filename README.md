@@ -108,4 +108,4 @@ We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file
 ---
 
 ## Contact
-For questions or support, contact us at [support@example.com](mailto:support@example.com).
+For questions or support, contact us at [support@example.com](paknasirakram@gmail.com).
