@@ -18,5 +18,23 @@
         android:textStyle="bold"
 
         />
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sensor Value"
+        android:id="@+id/value"
+        android:textSize="34sp"
+        android:textStyle="bold"
+
+        />
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sensor Value"
+        android:id="@+id/value"
+        android:textSize="34sp"
+        android:textStyle="bold"
+
+        />
 
 </LinearLayout>
